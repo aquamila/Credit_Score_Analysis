@@ -7,7 +7,7 @@ In the first step of the project, I obtained general information about the datas
 
 ## Data and Questions
 
-The dataset is a CSV file [medical_appointment_no_shows.csv](https://github.com/aquamila/UDACITY_Investigate_Dataset/blob/master/medical_appointment_no_shows.csv). 
+The dataset is a CSV file [credit_scoring_eng.csv](https://github.com/aquamila/Find_High_Risk_Customers/blob/main/credit_scoring_eng.csv). 
 
 Data Dictionary:
 
@@ -26,10 +26,10 @@ Data Dictionary:
 
 The following questions were investigated:   
  
-- is there a connection between having kids and repaying a loan on time?
-- is there a connection between marital status and repaying a loan on time?
-- is there a connection between income level and repaying a loan on time?
-- how do different loan purposes affect on-time loan repayment?
+- Is there a connection between having kids and repaying a loan on time?
+- Is there a connection between marital status and repaying a loan on time?
+- Is there a connection between income level and repaying a loan on time?
+- How do different loan purposes affect on-time loan repayment?
 
 ## Technologies Used
 
