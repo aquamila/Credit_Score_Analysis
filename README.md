@@ -1,9 +1,9 @@
 # Find High-Risk Customers
 ## Overview
 
-The subject of this analysis was a Credit Scoring dataset describing more than 200 hundreds of customers who took a loan in a bank. The dataset contains information about their age, gender, education, work experience, family and financial situation, and even their loan purposes. The project's main goal was to find a connection between specific customers' features and repaying their loans on time. 
+The subject of this analysis was a Credit Scoring dataset describing more than 200 hundred customers who took a loan in a bank. The dataset contains information about their age, gender, education, work experience, family and financial situation, and even their loan purposes. The project's main goal was to find a connection between specific customers' features and repaying their loans on time.
 
-In the first step of the project, I obtained general information about the dataset and its variables and identified main issues that should have been fixed before the analysis. Then I preprocessed the dataset and prepared for the exploratory analysis, working on all the dataset's flaws discovered at the previous stage. Finally, I found the riskiest category of customers by analysing connections between repaying a loan on time and customer's number of children, marital status, level of income, their loan purposes.
+In the first step of the project, I obtained general information about the dataset and its variables and identified the main issues that should have been fixed before the analysis. Then I preprocessed the dataset and prepared for the exploratory analysis, working on all the dataset's flaws discovered at the previous stage. Finally, I found the riskiest category of customers by analyzing connections between repaying a loan on time and customer's number of children, marital status, level of income, their loan purposes.
 
 ## Data and Questions
 
