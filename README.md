@@ -5,13 +5,6 @@ The subject of this analysis was a Credit Scoring dataset describing more than 2
 
 In the first step of the project, I obtained general information about the dataset and its variables and identified main issues that should have been fixed before the analysis. Then I preprocessed the dataset and prepared for the exploratory analysis, working on all the dataset's flaws discovered at the previous stage. Finally, I found the riskiest category of customers by analysing connections between repaying a loan on time and customer's number of children, marital status, level of income, their loan purposes.
 
-I analyzed the following features: having children, customer's marital status, level of income and a reason why they took a loan.
-
-- is there a connection between having kids and repaying a loan on time?
-- is there a connection between marital status and repaying a loan on time?
-- is there a connection between income level and repaying a loan on time?
-- how do different loan purposes affect on-time loan repayment?
-
 ## Data and Questions
 
 The dataset is a CSV file [medical_appointment_no_shows.csv](https://github.com/aquamila/UDACITY_Investigate_Dataset/blob/master/medical_appointment_no_shows.csv). 
