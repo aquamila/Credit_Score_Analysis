@@ -11,18 +11,18 @@ The dataset is a CSV file [medical_appointment_no_shows.csv](https://github.com/
 
 Data Dictionary:
 
-__children__ - the number of children in the family
-__days_employed__ - how long the customer has been working
-__dob_years__ - the customer’s age
-__education__ - the customer’s education level
-__education_id__ - an identifier for the customer’s education
-__family_status__ - the customer’s marital status
-__family_status_id__ - an identifier for the customer’s marital status
-__gender__ - the customer’s gender
-__income_type__ - the customer’s income type
-__debt__ - whether the customer has ever defaulted on a loan
-__total_income__ - the customer’s income
-__purpose__ - a reason for taking out a loan
+- __children__ - the number of children in the family
+- __days_employed__ - how long the customer has been working
+- __dob_years__ - the customer’s age
+- __education__ - the customer’s education level
+- __education_id__ - an identifier for the customer’s education
+- __family_status__ - the customer’s marital status
+- __family_status_id__ - an identifier for the customer’s marital status
+- __gender__ - the customer’s gender
+- __income_type__ - the customer’s income type
+- __debt__ - whether the customer has ever defaulted on a loan
+- __total_income__ - the customer’s income
+- __purpose__ - a reason for taking out a loan
 
 The following questions were investigated:   
  
